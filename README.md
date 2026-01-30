@@ -1,24 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ashwaaq Ahmed Ali</h1>
-<h3 align="center">Content Creator | Social Media Marketing</h3>
 
-- 🔭 I’m currently working on [Content Creator](https://www.youtube.com/channel/UCnYMFKe92hiv-BNuhndp1bw)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/183F1mWi1R/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ashwaq_bintu_ahmed?igsh=aDd4NDJheTN1N3J4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashwaaqahmed?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@ashwaaqbintuahmed?_r=1&_t=ZS-93UzXKqdVHp) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCnYMFKe92hiv-BNuhndp1bw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwaqahmed849@gmail.com) 
 
-- 🌱 I’m currently learning **Growing social media brands, content collaborations, and digital marketing projects.**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ashwaaqamiira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ashwaaqamiira&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwaaqamiira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- I create engaging digital content and manage social media strategies that help brands grow, reach wider audiences, and increase online engagement. [Social Media Marketter](https://www.linkedin.com/in/ashwaaqahmed?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+---
+[![](https://visitcount.itsvg.in/api?id=ashwaaqamiira&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🤝 I’m looking for help with **Growing social media brands, content collaborations, and digital marketing projects.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ashwaaqamiira?tab=repositories](https://github.com/ashwaaqamiira?tab=repositories)
-
-- 💬 Ask me about **Growing social media brands, content collaborations, and digital marketing projects.**
-
-- 📫 How to reach me **https://www.linkedin.com/in/ashwaaqahmed?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app https://www.youtube.com/channel/UCnYMFKe92hiv-BNuhndp1bw 0610482104**
-
-- 📄 Know about my experiences [no](no)
-
-- ⚡ Fun fact **⚡ Fun fact: I believe good content can change everything.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
